@@ -1,4 +1,4 @@
-# Desafio 03 - Bootcamp: Jogo Genius/Genius 🚀
+# Desafio Bootcamp: Jogo Genius/Genius 🚀
 
 Projeto de jogo Genius em 30 de abril de 2022, pela [Digital Innovation One](https://digitalinnovation.one/).
 
